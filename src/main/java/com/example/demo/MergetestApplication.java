@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MergetestApplication {
 
 	public static void main(String[] args) {
-		System.out.println("aaa");
+		System.out.println("bbbbbbb");
 		SpringApplication.run(MergetestApplication.class, args);
 	}
 }
