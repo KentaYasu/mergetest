@@ -8,6 +8,7 @@ public class MergetestApplication {
 
 	public static void main(String[] args) {
 		System.out.println("bbbbbbb");
+		System.out.println("ccccccc");
 		SpringApplication.run(MergetestApplication.class, args);
 	}
 }
